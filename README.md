@@ -11,3 +11,5 @@ Publíco alvo: População de Magé
 Objetivo e benefícios: Simplificar o processo de consulta sobre trilhas, cachoeiras e eventos promovidos no Circuito Magé Verde.
 
 Tipo de MVP: Protótipo
+
+Ferramenta de prototipação: Canvas
